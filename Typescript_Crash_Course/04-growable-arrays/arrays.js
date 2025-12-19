@@ -1,3 +1,4 @@
+"use strict";
 var sportsTwo = ["football", "golf", "bascket"];
 sportsTwo.push("Sah");
 sportsTwo.push("Table");

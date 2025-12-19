@@ -1,3 +1,4 @@
+"use strict";
 console.log("This is a loop");
 var total = 0;
 var reviews = [10, 1.8, 8, 7, 5, 5.02, 5.3];
